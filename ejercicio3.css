@@ -1,0 +1,30 @@
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .contenedor {
+      display: flex;
+      height: 500px;
+    }
+
+    .menu-lateral {
+      background-color: rgb(75, 114, 91);
+      width: 250px;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .menu-lateral ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .menu-lateral li {
+      margin-bottom: 15px;
+      border-bottom: 1px solid #000;
+      padding-bottom: 8px;
+    }
+</html>

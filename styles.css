@@ -1,0 +1,26 @@
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .contenedor {
+      display: flex;
+      height: 600px;
+    }
+
+    .menu-lateral {
+      background-color: skyblue;
+      width: 250px;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .contenido {
+      background-color: lightcyan;
+      flex: 1;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+</html>
